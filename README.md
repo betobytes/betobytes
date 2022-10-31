@@ -12,7 +12,7 @@ Soy un apasionado del desarrollo de software y aprendo y descubro en esta indust
 Me gusta mucho colaborar en proyectos y asumir retos para resolver un problema 
 que ayude a una causa y me permita aumentar mis habilidades.*
 
-__
+___
 
 ## Mis proyectos 🎮
 
